@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="PDFLinks">
+    <title>PDF Links</title>
+    <body>
+        <p>This section contains links to all PDFs that are present in the Repository:</p>
+        <ul id="ul_vzf_3lz_31c">
+            <li><xref href="../PDF/GCPRN.pdf" format="pdf">Sample Link</xref></li>
+        </ul>
+    </body>
+</topic>
