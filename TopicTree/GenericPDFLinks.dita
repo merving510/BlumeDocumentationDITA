@@ -52,7 +52,7 @@
                 chain operations. Should you have any questions or require further assistance, our
                 dedicated support team is here to help.</p>
             <table frame="all" rowsep="1" colsep="1" id="table_bw5_dhg_j1c">
-                <title>Generic Documentation</title>
+                <title>Generic PDF Documentation</title>
                 <tgroup cols="2">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>
                     <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -67,6 +67,48 @@
                             <entry>Working on FTP Server</entry>
                             <entry><xref href="../PDF/2024/Generic/WorkingonFTPServer.pdf"
                                     format="pdf">Download</xref></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="1" id="table_xjd_1tg_j1c">
+                <title>Generic Excel Spreadsheets</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Excel Sheet Title</entry>
+                            <entry>Link</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Dynamic ETA Perdiction - VD</entry>
+                            <entry><xref
+                                    href="../PDF/2024/Generic/Enable_Dynamic_VD_Prediction.xlsx"
+                                    format="xlsx">Download</xref></entry>
+                        </row>
+                        <row>
+                            <entry>Planned Date Update Configuration</entry>
+                            <entry><xref href="../PDF/2024/Generic/Planned_Date_Update_Config.xlsx"
+                                    format="xlsx">Download</xref></entry>
+                        </row>
+                        <row>
+                            <entry>Planned and Estimated Sync</entry>
+                            <entry><xref href="../PDF/2024/Generic/Planned_and_Estimate_Sync.xlsx"
+                                    format="xlsx">Download</xref></entry>
+                        </row>
+                        <row>
+                            <entry>Update Terminal Info to Dray Leg</entry>
+                            <entry><xref
+                                    href="../PDF/2024/Generic/Update_Terminal_Info_To_Dray_Leg.xlsx"
+                                    format="xlsx">Download</xref></entry>
+                        </row>
+                        <row>
+                            <entry>Geofence Configuration (BMV)</entry>
+                            <entry><xref href="../PDF/2024/Generic/Geofence_Config_BMV.xlsx"
+                                    format="xlsx">Download</xref></entry>
                         </row>
                     </tbody>
                 </tgroup>
