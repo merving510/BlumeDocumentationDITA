@@ -5,4 +5,5 @@
         <mainbooktitle>Blume PDF Repository</mainbooktitle>
     </booktitle>
     <chapter href="../TopicTree/PDFLinks.dita"/>
+    <chapter href="../TopicTree/RNPDFLinks.dita"/>
 </bookmap>
