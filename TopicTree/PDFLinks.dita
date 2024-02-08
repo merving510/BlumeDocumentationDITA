@@ -2,11 +2,65 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="PDFLinks">
     <title>Documentation Impacts</title>
-    <shortdesc>Welcome to the Maintenance Release Notes section of Blume Global's Online Help Site.
-        This dedicated space serves as a comprehensive resource for users seeking detailed
-        information on the latest updates, enhancements, and fixes implemented across our suite of
-        logistics and supply chain management solutions.</shortdesc>
+    <shortdesc>Welcome to the User Guide section of Blume Global's Online Help Site. This essential
+        repository is specifically designed to complement our Maintenance Release Notes by providing
+        detailed documentation on the use and operation of our suite of logistics and supply chain
+        management solutions. Here, you will find an array of User Guide PDFs that offer
+        comprehensive insights and instructions tailored to help you navigate and maximize the
+        capabilities of our products following any updates or changes detailed in the Maintenance
+        Release Notes.</shortdesc>
     <body>
+        <section>
+            <title><b>What You Can Expect to Find:</b></title>
+            <p>
+                <ul>
+                    <li>
+                        <p><b>Comprehensive Coverage:</b> Our User Guides delve into every aspect of
+                            our software, from basic navigation to advanced features and
+                            functionalities. Whether you're a new user learning the ropes or an
+                            experienced operator seeking to deepen your expertise, these guides have
+                            you covered.</p>
+                    </li>
+                    <li>
+                        <p><b>Step-by-Step Instructions:</b> To ensure clarity and ease of use, our
+                            guides include step-by-step instructions accompanied by screenshots and
+                            diagrams. This approach aims to facilitate a smoother learning curve and
+                            empower you to leverage the full range of features offered by our
+                            solutions.</p>
+                    </li>
+                    <li>
+                        <p><b>Best Practices:</b> Benefit from our compiled best practices and tips
+                            to optimize your workflows, enhance efficiency, and achieve better
+                            outcomes in your logistics and supply chain operations.</p>
+                    </li>
+                    <li>
+                        <p><b>Documentation Updates:</b> Each User Guide is meticulously updated to
+                            reflect the documentation impacts stemming from the latest Maintenance
+                            Release Notes. This ensures that the information remains relevant and
+                            aligned with the current version of our software, helping you to
+                            understand and adjust to any changes or new features.</p>
+                    </li>
+                    <li>
+                        <p><b>Searchable PDFs:</b> To save you time and effort, our User Guides are
+                            provided in searchable PDF format, allowing you to quickly find the
+                            information you need. Whether you're looking for specific functionality
+                            or troubleshooting advice, our searchable documents enhance your ability
+                            to get answers fast.</p>
+                    </li>
+                    <li>
+                        <p><b>Resource Links:</b> Within the guides, you'll find links to additional
+                            resources, including tutorial videos, FAQs, and direct lines to our
+                            support team, should you need further assistance.</p>
+                    </li>
+                </ul>
+            </p>
+            <p>This section is designed to be your go-to resource for mastering our logistics and
+                supply chain management solutions. We encourage you to download and consult these
+                User Guides to enhance your understanding and utilization of our products. Updated
+                regularly to align with our Maintenance Release Notes, these documents are an
+                invaluable tool for ensuring you and your team are fully equipped to meet the
+                demands of today's fast-paced logistics environments.</p>
+        </section>
         <p>This section contains links to all Blume Maintenance Release Documentation Impact
             PDFs.</p>
         <table frame="all" rowsep="1" colsep="1" id="table_igf_4qd_j1c">
