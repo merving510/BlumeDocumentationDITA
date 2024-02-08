@@ -6,4 +6,5 @@
     </booktitle>
     <chapter href="../TopicTree/PDFLinks.dita"/>
     <chapter href="../TopicTree/RNPDFLinks.dita"/>
+    <chapter href="../TopicTree/GenericPDFLinks.dita"/>
 </bookmap>
