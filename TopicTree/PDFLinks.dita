@@ -79,41 +79,41 @@
                 <tbody>
                     <row>
                         <entry morerows="4">Blume Logistics</entry>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/CGUSGFebMaint.pdf"
                                 format="pdf"><tm tmtype="tm">CarrierGo</tm> User
                             Guide</xref></entry>
                         <entry morerows="6">24th February 2024</entry>
                     </row>
                     <row>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/CMUSGFebMaint.pdf"
                                 format="pdf">Contract Management User Guide</xref></entry>
                     </row>
                     <row>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/FAPUSGFebMaint.pdf"
                                 format="pdf">Freight Audit and Pay User Guide</xref></entry>
                     </row>
                     <row>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/RSUSGFebMaint.pdf"
                                 format="pdf">Resource Selection User Guide</xref></entry>
                     </row>
                     <row>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/SSUSGFebMaint.pdf"
                                 format="pdf">Shipment Services User Guide</xref></entry>
                     </row>
                     <row>
                         <entry>Blume Platform</entry>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/HUBUSGFebMaint.pdf"
                                 format="pdf">Digital Operating Platform User Guide</xref></entry>
                     </row>
                     <row>
                         <entry>Blume Visibility</entry>
-                        <entry><xref
+                        <entry align="center"><xref
                                 href="../PDF/2024/FebMaint/DocumentationImpacts/VISUSGFebMaint.pdf"
                                 format="pdf">Visibility User Guide</xref></entry>
                     </row>
