@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="LogisticsFeatureConfiguration">
+    <title>Logistics and CarrierGo Feature Configurations</title>
+    <shortdesc>Welcome to the Blume Logistics and CarrierGo Solutions Configuration Guide. This
+        document is designed to serve as a comprehensive resource for system administrators, IT
+        professionals, and operational managers tasked with configuring and optimizing the Blume
+        Logistics and CarrierGo platforms for their organization's unique needs. Our aim is to
+        facilitate a smooth, efficient setup process that aligns with your operational goals,
+        ensuring that you can leverage the full power of Blume Global's technology to enhance your
+        logistics and transportation management capabilities.</shortdesc>
+    <conbody>
+        <p/>
+        <p>In today's dynamic business environment, the ability to customize and configure your
+            logistics platform is essential for maintaining competitiveness, improving efficiency,
+            and ensuring the highest levels of customer satisfaction. This guide provides detailed
+            instructions and insights into various configuration tasks, from basic setup operations
+            to more advanced customization options.</p>
+        <p>Each section of this guide is dedicated to a specific configuration task, including
+            Mediation Routing, Custom Events, Data Field Management, Delay Validation, Notification
+            Setup, and more. By following the guidelines provided, you will be able to tailor the
+            Blume Logistics and CarrierGo solutions to meet your specific operational requirements,
+            enabling a more responsive, efficient, and scalable logistics operation.</p>
+        <p>Before you begin the configuration process, we recommend gathering all necessary
+            organizational information and ensuring that you have appropriate system access rights.
+            Configuration tasks may require a deep understanding of your operational workflows, data
+            structure, and the specific outcomes you aim to achieve using the Blume platforms.</p>
+        <p>This table contains a list of Blume Logistics and CarrierGo Feature Configurations.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_ksl_hyg_j1c">
+            <title>Blume Logistics and CarrierGo Feature Configurations</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="newCol3" colnum="3" colwidth="1*"/>
+                <colspec colname="newCol4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>SN</entry>
+                        <entry>Feature Configuration</entry>
+                        <entry>Description</entry>
+                        <entry>Link</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>Mediation Routing - Org Code</entry>
+                        <entry>
+                            <p>Mediation Routing with an Organization Code (Org Code) enables the
+                                directed flow of information within the Blume Logistics platform
+                                based on specific organizational units. This configuration allows
+                                users to define routing rules that automatically channel data and
+                                transactions to the appropriate organizational segment based on
+                                predefined criteria, such as geographic location, business unit, or
+                                service type. To configure, administrators must identify each
+                                organizational unit's unique Org Code and establish routing rules
+                                that dictate how information is mediated between these units,
+                                ensuring data integrity and operational efficiency.</p>
+                        </entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/MediationRouting.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>Custom Events Configuration</entry>
+                        <entry>
+                            <p>Custom Events Configuration allows users to define and manage unique
+                                event types within the Blume Logistics and CarrierGo platforms that
+                                are not covered by the system's default event set. This enables the
+                                tracking and monitoring of specific actions or milestones that are
+                                critical to an organization's operational processes. To configure
+                                custom events, administrators need to define the event name,
+                                criteria for triggering the event, and the actions that follow an
+                                event's occurrence. This might include notifications, updates to
+                                related records, or triggering specific workflows.</p>
+                        </entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/Custom%20Reason%20code.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>Update Fields</entry>
+                        <entry>The Update Fields configuration provides users with the ability to
+                            modify existing data fields within the system to reflect changes in
+                            operational requirements or data capture needs. This process involves
+                            identifying the fields that need updating, defining the new field
+                            parameters or values, and applying these changes across the system. It's
+                            essential for maintaining data relevance and ensuring that the platform
+                            accurately reflects current business processes.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/UpdateWOStateDecider.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>Amend Fields</entry>
+                        <entry>Amend Fields allows users to make corrections or adjustments to data
+                            fields after their initial entry or creation. This configuration is
+                            crucial for rectifying errors, updating information following changes,
+                            or refining data entries as more accurate information becomes available.
+                            The process involves selecting the fields to be amended, making the
+                            necessary adjustments, and ensuring that these amendments propagate
+                            correctly throughout related records and reports.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/AmendWOStateDecider.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>Delay Validation Configuration</entry>
+                        <entry>Delay Validation Configuration is designed to manage and enforce
+                            rules around acceptable timeframes for delays within the logistics and
+                            transportation process. By configuring delay validation rules,
+                            organizations can set thresholds for acceptable delays, conditions under
+                            which delays are evaluated, and the actions taken when a delay exceeds
+                            these thresholds. This might include automated alerts, escalation
+                            procedures, or adjustments to estimated arrival times.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/delayvalidationconfig.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>Retain Work Order Number</entry>
+                        <entry>Retaining Work Order Numbers configuration ensures that work order
+                            numbers are preserved and remain consistent across the Blume Logistics
+                            and CarrierGo platforms, even when work orders are updated or amended.
+                            This is critical for tracking, reporting, and auditing purposes,
+                            allowing users to maintain a clear and uninterrupted history of each
+                            work order. Configuration involves setting rules that prevent the system
+                            from automatically changing work order numbers upon modifications to the
+                            work order itself.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/RetainWorkOrderNumber.xlsx"
+                                format="xlsx">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>Notification Setup</entry>
+                        <entry>Notification Setup involves configuring the system to send automated
+                            alerts and notifications to users based on specific triggers or events
+                            within the Blume Logistics and CarrierGo platforms. This configuration
+                            task requires defining the events that trigger notifications, the
+                            criteria for who receives these alerts (based on roles,
+                            responsibilities, or individual users), and the format and channel of
+                            the notification (email, SMS, dashboard alerts, etc.). Effective
+                            notification setup ensures timely communication and response to critical
+                            events or milestones.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/Notification%20Setup%20Configuration%20Steps.pdf"
+                                format="pdf">Download</xref></entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>Metro / Zone Configuration</entry>
+                        <entry>Metro / Zone Configuration allows users to define geographical zones
+                            or metropolitan areas within the system for more granular management of
+                            logistics and transportation operations. This configuration can include
+                            defining the boundaries of each zone, associating specific operational
+                            rules or pricing structures with each zone, and tailoring service
+                            offerings based on zone-specific characteristics. Metro/Zone
+                            configuration enhances operational efficiency by enabling localized
+                            decision-making and resource allocation.</entry>
+                        <entry><xref
+                                href="../../PDF/2024/Generic/PSGImplementationGuide/Metro%20Zone%20Configuration.pdf"
+                                format="pdf">Download</xref></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

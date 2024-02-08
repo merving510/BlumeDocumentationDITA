@@ -6,5 +6,7 @@
     </booktitle>
     <chapter href="../TopicTree/PDFLinks.dita"/>
     <chapter href="../TopicTree/RNPDFLinks.dita"/>
-    <chapter href="../TopicTree/GenericPDFLinks.dita"/>
+    <chapter href="../TopicTree/GenericPDFLinks.dita">
+        <topicref href="../TopicTree/PSGImplementationGuide/LogisticsFeatureConfiguration.dita"/>
+    </chapter>
 </bookmap>
