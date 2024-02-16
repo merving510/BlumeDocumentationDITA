@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="APIPDFLinks">
+    <title>API PDF Links</title>
+    <shortdesc>The Blume Global API documentation site caters to users the instructions on how to
+        effectively use and integrate the Blume Global API. It also provides updates on the API's
+        lifecycle such as new versions or retirement. Some aspects of API documentation can be
+        generated automatically via Swagger or other documents.</shortdesc>
+    <body>
+        <p>This section contains links to all Blume API Documentation PDFs.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_nq4_j1m_l1c">
+            <title>Visibility API Documentation Links</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Document Title</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Blume Visibility Flight Status API Integration Guide</entry>
+                        <entry>This guide provides instructions for integrating the Blume Visibility
+                            Flight Status API, which allows users to track the status of flights in
+                            real time.</entry>
+                    </row>
+                    <row>
+                        <entry>Blume Visibility Geo Location API Integration Guide (Pull) </entry>
+                        <entry>This document explains how to integrate the Blume Visibility Geo
+                            Location API using a pull mechanism to retrieve geographical location
+                            data for tracking purposes.</entry>
+                    </row>
+                    <row>
+                        <entry>Blume Visibility Get Event API Integration Guide (Push) </entry>
+                        <entry>This guide describes the process for integrating the Blume Visibility
+                            Get Event API using a push mechanism to receive real-time event
+                            notifications.</entry>
+                    </row>
+                    <row>
+                        <entry>Blume Visibility Milestones API Integration Guide (Pull) </entry>
+                        <entry>This document provides instructions for integrating the Blume
+                            Visibility Milestones API using a pull method to retrieve milestone
+                            information for shipments.</entry>
+                    </row>
+                    <row>
+                        <entry>Blume Visibility Milestones API Integration Guide (Push) </entry>
+                        <entry>This guide explains how to integrate the Blume Visibility Milestones
+                            API using a push method to receive real-time updates on shipment
+                            milestones.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_fyg_3bm_l1c">
+            <title>Logistics API Documentation Links</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Document Title</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

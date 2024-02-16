@@ -9,4 +9,5 @@
     <chapter href="../TopicTree/GenericPDFLinks.dita">
         <topicref href="../TopicTree/PSGImplementationGuide/LogisticsFeatureConfiguration.dita"/>
     </chapter>
+    <chapter href="../TopicTree/APIPDFLinks.dita"/>
 </bookmap>
