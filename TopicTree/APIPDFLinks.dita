@@ -21,31 +21,43 @@
                 </thead>
                 <tbody>
                     <row>
-                        <entry>Blume Visibility Flight Status API Integration Guide</entry>
+                        <entry><xref href="../PDF/2024/API/Visibility/VisFlightStatusAPI.pdf"
+                                format="pdf">Blume Visibility Flight Status API Integration
+                                Guide</xref></entry>
                         <entry>This guide provides instructions for integrating the Blume Visibility
                             Flight Status API, which allows users to track the status of flights in
                             real time.</entry>
                     </row>
                     <row>
-                        <entry>Blume Visibility Geo Location API Integration Guide (Pull) </entry>
+                        <entry><xref href="../PDF/2024/API/Visibility/VisGeoLocationAPIPull.pdf"
+                                format="pdf">Blume Visibility Geo Location API Integration Guide
+                                (Pull)</xref>
+                        </entry>
                         <entry>This document explains how to integrate the Blume Visibility Geo
                             Location API using a pull mechanism to retrieve geographical location
                             data for tracking purposes.</entry>
                     </row>
                     <row>
-                        <entry>Blume Visibility Get Event API Integration Guide (Push) </entry>
+                        <entry><xref href="../PDF/2024/API/Visibility/VisGetEventAPIPush.pdf"
+                                format="pdf">Blume Visibility Get Event API Integration Guide (Push)
+                            </xref></entry>
                         <entry>This guide describes the process for integrating the Blume Visibility
                             Get Event API using a push mechanism to receive real-time event
                             notifications.</entry>
                     </row>
                     <row>
-                        <entry>Blume Visibility Milestones API Integration Guide (Pull) </entry>
+                        <entry><xref href="../PDF/2024/API/Visibility/VisMilestoneAPIPull.pdf"
+                                format="pdf">Blume Visibility Milestones API Integration Guide
+                                (Pull)</xref>
+                        </entry>
                         <entry>This document provides instructions for integrating the Blume
                             Visibility Milestones API using a pull method to retrieve milestone
                             information for shipments.</entry>
                     </row>
                     <row>
-                        <entry>Blume Visibility Milestones API Integration Guide (Push) </entry>
+                        <entry><xref href="../PDF/2024/API/Visibility/VisMilestoneAPIPush.pdf"
+                                format="pdf">Blume Visibility Milestones API Integration Guide
+                                (Push)</xref></entry>
                         <entry>This guide explains how to integrate the Blume Visibility Milestones
                             API using a push method to receive real-time updates on shipment
                             milestones.</entry>
@@ -66,20 +78,42 @@
                 </thead>
                 <tbody>
                     <row>
-                        <entry/>
-                        <entry/>
+                        <entry><xref href="../PDF/2024/API/Logistics/BookingAPIGuide(BCO).pdf"
+                                format="pdf">Booking API Guide (BCO)</xref></entry>
+                        <entry>This guide provides information on the Booking API for Beneficial
+                            Cargo Owners (BCOs), detailing how to manage and track bookings.</entry>
                     </row>
                     <row>
-                        <entry/>
-                        <entry/>
+                        <entry><xref href="../PDF/2024/API/Logistics/FAPAPIGuide(Carrier).pdf"
+                                format="pdf">Freight Audit and Pay API Guide
+                            (Carrier)</xref></entry>
+                        <entry>This document outlines the integration process for the Freight Audit
+                            and Pay API from a carrier's perspective, focusing on billing and
+                            payment processes.</entry>
                     </row>
                     <row>
-                        <entry/>
-                        <entry/>
+                        <entry><xref href="../PDF/2024/API/Logistics/FAPAPIGuide(Originator).pdf"
+                                format="pdf">Freight Audit and Pay API Guide
+                            (Originator)</xref></entry>
+                        <entry>This guide describes how to integrate the Freight Audit and Pay API
+                            from an originator's viewpoint, covering the audit and payment
+                            initiation for freight services.</entry>
                     </row>
                     <row>
-                        <entry/>
-                        <entry/>
+                        <entry><xref href="../PDF/2024/API/Logistics/ShipmentServicesAPIGuide.pdf"
+                                format="pdf">Blume Shipment Services - API Documentation</xref>
+                        </entry>
+                        <entry>This document provides comprehensive information on the Blume
+                            Shipment Services API, covering various functionalities related to
+                            shipment management.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="../PDF/2024/API/Logistics/WorkOrderRestAPIGuide.pdf"
+                                format="pdf">CarrierGo Work Order Restful API Documentation</xref>
+                        </entry>
+                        <entry>This guide details the integration process for the CarrierGo Work
+                            Order Restful API, which allows carriers to manage work orders
+                            efficiently.</entry>
                     </row>
                 </tbody>
             </tgroup>
