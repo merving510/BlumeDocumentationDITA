@@ -131,17 +131,21 @@
                 </thead>
                 <tbody>
                     <row>
-                        <entry>Bulk e-mail Invites API Guide</entry>
+                        <entry><xref href="../PDF/2024/API/Placeholders/BulkemailInvitesAPI.pdf"
+                                format="pdf">Bulk e-mail Invites API Guide</xref></entry>
                         <entry>This guide provide details on how to efficiently send invitations to
                             multiple recipients at once using our Bulk e-mail Invites API.</entry>
                     </row>
                     <row>
-                        <entry>E-mail Invite Status API Guide</entry>
+                        <entry><xref href="../PDF/2024/API/Placeholders/EmailInviteStatusAPI.pdf"
+                                format="pdf">E-mail Invite Status API Guide</xref></entry>
                         <entry>This guide provides details on how to track the status of your sent
                             invitations with our E-mail Invite Status API.</entry>
                     </row>
                     <row>
-                        <entry>Update Partnerships (Enable/Disable) API Guide</entry>
+                        <entry><xref href="../PDF/2024/API/Placeholders/UpdatePartnershipsAPI.pdf"
+                                format="pdf">Update Partnerships (Enable/Disable) API
+                            Guide</xref></entry>
                         <entry>This guide provides details on how to manage your partnerships by
                             enabling or disabling them through our Update Partnerships API.</entry>
                     </row>
